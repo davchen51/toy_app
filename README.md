@@ -2,5 +2,5 @@
 
 ## "hello, world!"
 
-This is the second application for the Rails tutorial.
+This is the second application for the Rails tutorialzzz.
 
